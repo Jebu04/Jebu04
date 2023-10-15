@@ -1,7 +1,5 @@
 <h1 align="center">Hello!</h1>
-<h3 align="center">I am a software developer from Finland.</h3>
-
-<p align="center">Currently studying information and communication technologies at Vantaan ammattiopisto Varia.<p>
+<h3 align="center">I am  a 19 years old software developer from Finland.</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jebu04&show_icons=true&locale=en&layout=compact" alt="Jebu04" /></p>
 
